@@ -12,4 +12,8 @@ Classe Singleton declara o método estático getInstance que retorna a mesma ins
 
 Construtor da singleton deve ser escondido do código cliente. Chamando o método getInstance deve ser o único modo de obter o objeto singleton.
 # Exemplo de Implementação
+https://github.com/gustavokiyatake/Singleton-Pattern/tree/master/Singleton-Pattern/src
 
+https://github.com/gustavokiyatake/Singleton-Pattern/tree/master/Singleton-Pattern2/src
+
+https://github.com/gustavokiyatake/Singleton-Pattern/tree/master/Singleton-Pattern03/src
