@@ -8,8 +8,8 @@ Padrão Singleton pode ser instanciada e usada apenas quando necessário, difere
 ## Estrutura
 ![structure](https://refactoring.guru/images/patterns/diagrams/singleton/structure-pt-br.png)
 ## Participantes
-#Classe Singleton declara o método estático getInstance que retorna a mesma instância de sua própria classe.
+### lasse Singleton declara o método estático getInstance que retorna a mesma instância de sua própria classe.
 
-#Construtor da singleton deve ser escondido do código cliente. Chamando o método getInstance deve ser o único modo de obter o objeto singleton.
+### Construtor da singleton deve ser escondido do código cliente. Chamando o método getInstance deve ser o único modo de obter o objeto singleton.
 # Exemplo de Implementação
 
